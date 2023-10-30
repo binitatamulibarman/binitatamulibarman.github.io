@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1; padding: 10px;">
-    <img src="https://github.com/binitatamulibarman/binitatamulibarman.github.io/blob/main/drbinita.jpg" width="500" height="600">
+    <img src="https://github.com/binitatamulibarman/binitatamulibarman.github.io/blob/main/drbinita.jpg" width="200" height="400">
   </div>
   <div style="flex: 2; padding: 10px;">
     <b>Name:</b> Dr. Binita Tamuli Barman  
