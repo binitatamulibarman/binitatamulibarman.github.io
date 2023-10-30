@@ -1,14 +1,22 @@
 # **PROFESSIONAL SUMMARY**
 
-**Name:** Dr. Binita Tamuli Barman  
-**Email ID:** dr.binitatamulibarman@gmail.com  
-**Designation:** Associate Professor  
-**Department:** Economics  
-**Organization:** Pandu College  
-Pandu, Guwahati – 781 012, Assam  
-**Membership:** Life Member of Indian Economic Association  
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1; padding: 10px;">
+    ![Dr. Binita's Photo](https://github.com/binitatamulibarman/binitatamulibarman.github.io/blob/main/drbinita.jpg)
+  </div>
+  <div style="flex: 2; padding: 10px;">
+    **Name:** Dr. Binita Tamuli Barman  
+    **Email ID:** dr.binitatamulibarman@gmail.com  
+    **Designation:** Associate Professor  
+    **Department:** Economics  
+    **Organization:** Pandu College  
+    **Membership:** Life Member of Indian Economic Association  
+  </div>
+</div>
 
-# **Present Occupation**
+<div>
+  <!-- Rest of the content goes here -->
+   # **Present Occupation**
 
 Working as an Associate Professor in the Department of Economics at Pandu College, Pandu, Guwahati w.e.f. 08.08.2007.
 
@@ -56,3 +64,6 @@ Working as an Associate Professor in the Department of Economics at Pandu Colleg
    - **ISBN:** 76-293-27-X
 5. Published an article on "Women Entrepreneur : A way to Women Empowerment – A Case Study of Rangia Municipal Board” in the Journal “A Publication of Seminar Papers on ‘Entrepreneurship Development – A Key Issue for Socio-economic Growth’” Published by Seminar Organizing Committee, Gauhati Commerce College, Guwahati, Assam, March,  2008.
 6. Published an article on “WTO and Boarder Trade Between North-Eastern Region of India and Bangladesh”, in the book
+
+</div>
+
